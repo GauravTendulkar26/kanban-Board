@@ -1,0 +1,31 @@
+.kanban{
+  display: flex;
+  padding: 30px;
+  width: 750px;
+  background: #009578;
+  border-radius: 5px;
+}
+
+.kanbancolumn{
+  flex: 1;
+}
+
+.kanbancolumn{
+  margin-right: 30px;
+}
+
+.kanbantitle{
+  margin-bottom: 20px;
+  font-size: 30px;
+  color: whitesmoke;
+  user-select: none;
+}
+
+.kanbaniteminput{
+  padding: 10px 15px;
+  box-sizing: border-box;
+  background: white;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
