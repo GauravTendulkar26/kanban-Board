@@ -1,3 +1,3 @@
 # kanban-Board
 
-we used html , css , javascript concepts
+we used html , css , javascript concepts.
